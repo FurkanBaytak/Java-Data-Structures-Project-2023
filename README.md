@@ -99,7 +99,7 @@ graph.calculateShortestPathFromSource(nodeA);
 
 ## Project Report
 
-The detailed project report is available in the file [`Data Structures Fall Semester Project Report.pdf`](https://markummitchell.github.io/engauge-digitizer/). It includes explanations of the implementations, methods used, and challenges faced.
+The detailed project report is available in the file [`Data Structures Fall Semester Project Report.pdf`](https://github.com/FurkanBaytak/Java-Data-Structures-Project-2023/blob/main/Data%20Structures%20Fall%20Semester%20Project%20Report.pdf). It includes explanations of the implementations, methods used, and challenges faced.
 
 ## Contributors
 - [Furkan BAYTAK](https://github.com/FurkanBaytak)
